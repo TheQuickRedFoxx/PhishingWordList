@@ -1,0 +1,2 @@
+# PhishingWordList
+Phishing WordList
